@@ -1,2 +1,2 @@
 # Hoodie_web
-just frontend &lt; i'm creating backend right now,
+just frontend with html css and tailwind and some js &lt; i'm creating backend right now,
